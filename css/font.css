@@ -1,0 +1,5 @@
+@font-face {
+    font-family : 'Comics Deluxe';
+    src : url('../font/comics_deluxe/Comics\ Deluxe.ttf')format('truetype')
+    url('../font/comics_deluxe/Comics\ Deluxe.otf')format('opentype')
+}
